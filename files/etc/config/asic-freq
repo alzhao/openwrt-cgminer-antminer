@@ -1,0 +1,31 @@
+package 'cgminer'
+
+config 'asic-freq' 'default'
+        #option 'freq_value'    '4f81'  #400M        
+        #option 'chip_freq'     '400'        
+        #option 'timeout'       '35'         
+                                             
+        option 'freq_value'     '4d81'  #350M
+        option 'chip_freq'      '350'        
+        option 'timeout'        '40'         
+                                             
+        #option 'freq_value'    '4c81'  #325M
+        #option 'chip_freq'     '325'        
+        #option 'timeout'       '40'         
+                                             
+        #option 'freq_value'    '0b81'  #300M
+        #option 'chip_freq'     '300'        
+        #option 'timeout'       '45'         
+                                             
+        #option 'freq_value'    '0981'  #250M
+        #option 'chip_freq'     '250'        
+        #option 'timeout'       '55'         
+                                             
+        #option 'freq_value'    '0781'  #200M
+        #option 'chip_freq'     '200'
+        #option 'timeout'       '70'
+                                             
+        #option 'freq_value'    '4f02'  #193M
+        #option 'chip_freq'     '193'
+        #option 'timeout'       '70'
+
